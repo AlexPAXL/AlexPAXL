@@ -35,23 +35,25 @@ Me gusta transformar temas complejos en interfaces claras y visuales.
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,php,postman,cs,git,github,mysql,sqlite,cassandra,tailwind,bootstrap,androidstudio,firebase,gcp,nodejs,npm,angular,dotnet,java,kotlin,c,cs,cpp,idea,visualstudio,vscode,discord,kotlin&theme=dark)](https://skillicons.dev)
 
-</div>
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)  
 
-## 🚀 Proyectos Destacados
+<div align="left">
 
-### 📊 **Estadística Interactiva**
-Sistema web educativo que incluye:
-- Calculadoras estadísticas  
-- Probabilidad condicional, binomial, permutaciones y combinaciones  
-- Visualizaciones interactivas  
-- Interfaz moderna (TailwindCSS + JS)
 
-🔗 *Repositorio:* *(agrega el link cuando lo subas o ya esté disponible)*
 
----
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+</picture>  
+
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22bow4kqejhha4clw3nrdw4cq&count=1)
+
+![](https://komarev.com/ghpvc/?username=huiishan99&color=brightgreen)
 
 </div>
 
