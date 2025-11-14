@@ -1,7 +1,6 @@
 <!-- Encabezado centrado -->
 <div align="center">
 
-<div align="left">
 # 🚀 Alex PAXL  
 ### *Full Stack Developer | Educador en Computación | Creador de Sistemas Web Interactivos*
 
