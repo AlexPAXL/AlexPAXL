@@ -33,7 +33,7 @@ Me gusta transformar temas complejos en interfaces claras y visuales.
 ### 🔧 Lenguajes y Tecnologías
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,cs,git,github,mysql,sqlite,tailwind,bootstrap,regex,idea,visualstudio,vscode&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,php,postman,cs,git,github,mysql,sqlite,cassandra,tailwind,bootstrap,androidstudio,firebase,gcp,nodejs,npm,angular,dotnet,java,kotlin,c,cs,cpp,idea,visualstudio,vscode,discord,kotlin&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -52,13 +52,6 @@ Sistema web educativo que incluye:
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexPAXL&show_icons=true&theme=tokyonight&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexPAXL&layout=compact&theme=tokyonight&hide_border=false)
 
 </div>
 
