@@ -7,10 +7,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AlexPAXL&label=Visitas%20al%20perfil&color=blue&style=flat)
 
 ---
-
-### 🌐 Construyendo herramientas educativas modernas  
-Desarrollador apasionado por crear sistemas web interactivos, enfocados en estadística, probabilidad y aprendizaje práctico para estudiantes.  
-
 Actualmente desarrollando:  
 🔥 **Estadística Interactiva – Sistema Web Educativo**
 
