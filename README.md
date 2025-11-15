@@ -1,6 +1,9 @@
 <!-- Encabezado centrado -->
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+15&size=30&pause=1000&color=42C3B4&background=9D56FF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hello!+Welcome+to+my+GitHub+page.)](https://git.io/typing-svg)  
+
+
 # 🚀 Alex PAXL  
 ### *Full Stack Developer | Educador en Computación | Creador de Sistemas Web Interactivos*
 
@@ -34,11 +37,6 @@ Me gusta transformar temas complejos en interfaces claras y visuales.
 <div align="center">
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,php,postman,cs,git,github,mysql,sqlite,cassandra,tailwind,bootstrap,androidstudio,firebase,gcp,nodejs,npm,angular,dotnet,java,kotlin,c,cs,cpp,idea,visualstudio,vscode,discord,kotlin&theme=dark)](https://skillicons.dev)
-
-
-
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
