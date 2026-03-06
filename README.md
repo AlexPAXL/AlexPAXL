@@ -45,7 +45,7 @@ Me gusta transformar temas complejos en interfaces claras y visuales.
 </picture>  
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22bow4kqejhha4clw3nrdw4cq&count=1)
+![Alt text]([https://spotify-recently-played-readme.vercel.app/api?user=22bow4kqejhha4clw3nrdw4cq&count=1](https://open.spotify.com/playlist/74CQqmeJ69rBCcPsR0y272?si=hSSuFC1JTcyYuX2UjmGXPw))
 
 ![](https://komarev.com/ghpvc/?username=huiishan99&color=brightgreen)
 
